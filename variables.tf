@@ -16,7 +16,7 @@ variable "disable_api_termination" {
 variable "int_names" {
   description = "Lista de nomes para instancias"
   type        = list(string)
-  default     = ["Helloworld", "Helloworld2", "Helloworld3"]
+  default     = ["Helloworld", "Helloworld2", "Helloworld3", "Helloworld4"]
   #                   0               1             2
 }
 
