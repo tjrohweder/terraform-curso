@@ -1,0 +1,2 @@
+# Infraestrutura como codigo utilizando Terraform
+This repository contains the code for the [Infrastructure as Code using Terraform](https://www.udemy.com/course/infraestrutura-como-codigo-utilizando-terraform/) course.
